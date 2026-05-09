@@ -42,6 +42,13 @@ html, body {
   margin-bottom:0;
   margin-left: 10px;
 }
+.profileimg{
+  height: 27px;
+  width: 27px;
+  border-radius:50%;
+  margin-left: 10px;
+
+}
 .options{
   width: 220px;
   height:50px;
