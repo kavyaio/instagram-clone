@@ -2,6 +2,9 @@
 
 A high-fidelity desktop frontend replica of the Instagram web client, meticulously recreating the user interface, sidebar navigation, story banners, post feed cards, and responsive side overlays.
 
+## 🔗 Live Demo
+👉 **[Open Instagram Clone Live Here!](https://kavyaio.github.io/instagram-clone/)**
+
 ---
 
 ## 📸 Screenshots
