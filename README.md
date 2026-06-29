@@ -10,10 +10,7 @@ A high-fidelity desktop frontend replica of the Instagram web client, meticulous
 ## 📸 Screenshots
 
 > [!TIP]
-> Add a screenshot showing the feed layout and sidebar here:
-> Save your image as `screenshot.png` inside an `images` folder in this project.
->
-> ![Instagram Clone Screenshot](images/screenshot.png)
+<img width="1896" height="924" alt="image" src="https://github.com/user-attachments/assets/ebbb91b6-8f86-4f1f-b50b-38e45634f3a1" />
 
 ---
 
